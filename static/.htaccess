@@ -1,4 +1,4 @@
 # Redirect traffic to your port 8000
 RewriteEngine On
 RewriteBase /
-RewriteRule ^(.*)?$ http://127.0.0.1:8000/$1 [P,L]
+RewriteRule ^(.*)?$ http://http://phpstack-467098-1587802.cloudwaysapps.com/$1 [P,L]
